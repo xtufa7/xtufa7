@@ -38,24 +38,6 @@ I build practical local-first tools, monitoring concepts, lightweight dashboards
 
 ---
 
-## Focus
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Behavioral%20Monitoring-1C1C1C?style=for-the-badge">
-<img src="https://img.shields.io/badge/Detection%20Workflows-2D5BFF?style=for-the-badge">
-<img src="https://img.shields.io/badge/Local--First%20Utilities-1C1C1C?style=for-the-badge">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Domain%20Name%20System%20Visibility-2D5BFF?style=for-the-badge">
-<img src="https://img.shields.io/badge/Lightweight%20Security%20Tooling-1C1C1C?style=for-the-badge">
-<img src="https://img.shields.io/badge/Clean%20Interfaces-2D5BFF?style=for-the-badge">
-
-</div>
-
----
-
 ## Projects
 
 <table>
