@@ -19,12 +19,12 @@
 
 # 👋 About Me
 
-```txt
+
 Handle      : 0xTuffa7 / xtufa7
 Focus       : Defensive Cybersecurity, OSINT, Domain Name System Intelligence
 Environment : Windows, Arch Linux, Hyprland
 Mindset     : Monitor. Analyze. Build. Improve.
-````
+
 
 I build tools and experiments around **security monitoring**,
 **behavioral analysis**, **network visibility**, and clean system utilities.
@@ -212,13 +212,13 @@ A local encrypted vault concept for storing sensitive notes, temporary copy hand
 
 # 🧭 Current Focus
 
-```txt
+
 [+] Building security-focused tools
 [+] Improving monitoring dashboards
 [+] Studying practical offensive and defensive concepts
 [+] Creating clean utilities for Windows and Linux
 [+] Turning ideas into usable projects
-```
+
 
 ---
 
@@ -244,11 +244,10 @@ A local encrypted vault concept for storing sensitive notes, temporary copy hand
 
 <div align="center">
 
-```txt
 Monitor quietly. Analyze deeply. Build cleanly.
-```
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2D5BFF,50:1C1C1C,100:0B0F14" />
 
 </div>
-```
+
