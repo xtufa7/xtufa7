@@ -30,7 +30,7 @@
 
 ---
 
-# About
+## About
 
 Defensive security builder focused on monitoring workflows, behavioral analysis, lightweight tooling, and clean system utilities.
 
@@ -38,18 +38,7 @@ I build practical local-first tools, monitoring concepts, lightweight dashboards
 
 ---
 
-<div align="center">
-
-```text
-Windows 11     Primary workflow and Windows utility development
-Arch Linux     Tooling, customization, and experimental workflows
-```
-
-</div>
-
----
-
-# Focus
+## Focus
 
 <div align="center">
 
@@ -67,61 +56,62 @@ Arch Linux     Tooling, customization, and experimental workflows
 
 ---
 
-# Projects
+## Projects
 
-## LiteBar
+<table>
+<tr>
+<td width="50%">
 
-Lightweight Windows tray utility for:
+### ⚡ LiteBar
 
-* quick cleanup
-* Explorer recovery
-* power mode switching
-* compact workflow controls
+Lightweight Windows tray utility for cleanup, Explorer recovery, power mode switching, and compact workflow controls.
 
-🔗
-https://github.com/XTUFA7/LiteBar
+<a href="https://github.com/XTUFA7/LiteBar">
+<img src="https://img.shields.io/badge/Open%20Repository-2D5BFF?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
----
+</td>
+<td width="50%">
 
-## GodEye
+### 👁️ GodEye
 
-Private monitoring and behavioral analysis system focused on:
-
-* activity visibility
-* lightweight dashboards
-* behavioral analysis
-* detection workflows
-* local-first monitoring concepts
-
-<div align="center">
+Private monitoring and behavioral analysis system built around activity visibility, lightweight dashboards, detection workflows, and intelligence-style analysis.
 
 <img src="https://img.shields.io/badge/Private%20Project-1C1C1C?style=for-the-badge">
 
-</div>
+</td>
+</tr>
 
----
+<tr>
+<td width="50%">
 
-## LayFix
+### ⌨️ LayFix
 
 Tray-first Arabic / English keyboard layout fixer.
-
 Select text, trigger shortcut, and replace only the selected content locally.
 
-🔗
-https://github.com/XTUFA7/LayFix
+<a href="https://github.com/XTUFA7/LayFix">
+<img src="https://img.shields.io/badge/Open%20Repository-2D5BFF?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
----
+</td>
+<td width="50%">
 
-## Onion Domain Generator
+### 🧅 Onion Domain Generator
 
 Beginner-friendly guide for generating `.onion` domains using Tor Hidden Services with operational safety notes and isolation guidelines.
 
-🔗
-https://github.com/XTUFA7/onion-domain-generator
+<a href="https://github.com/XTUFA7/onion-domain-generator">
+<img src="https://img.shields.io/badge/Open%20Repository-2D5BFF?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-# Tech Stack
+## Tech Stack
 
 <div align="center">
 
