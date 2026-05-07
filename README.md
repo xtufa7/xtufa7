@@ -4,26 +4,26 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=15&pause=1200&color=FF4D6D&center=true&vCenter=true&width=780&lines=Defensive+security+and+behavioral+analysis...;Building+lightweight+tools+and+monitoring+systems...;Windows+and+Linux+workflows+with+clean+technical+interfaces..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=15&pause=1200&color=C77DFF&center=true&vCenter=true&width=780&lines=Defensive+security+and+behavioral+analysis...;Building+lightweight+tools+and+monitoring+systems...;Windows+and+Linux+workflows+with+clean+technical+interfaces..." />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Windows%2011-FF2D55?style=for-the-badge&logo=windows&logoColor=white">
-<img src="https://img.shields.io/badge/Arch%20Linux-1C1C1C?style=for-the-badge&logo=archlinux&logoColor=white">
-<img src="https://img.shields.io/badge/Local--First-FF2D55?style=for-the-badge">
+<img src="https://img.shields.io/badge/Windows%2011-6A00FF?style=for-the-badge&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/Arch%20Linux-2A0A45?style=for-the-badge&logo=archlinux&logoColor=white">
+<img src="https://img.shields.io/badge/Local--First-6A00FF?style=for-the-badge">
 
 <br><br>
 
 <a href="https://github.com/XTUFA7">
-<img src="https://img.shields.io/badge/GitHub-1C1C1C?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-2A0A45?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://x.com/0xtufa7">
-<img src="https://img.shields.io/badge/X-FF2D55?style=for-the-badge&logo=x&logoColor=white">
+<img src="https://img.shields.io/badge/X-6A00FF?style=for-the-badge&logo=x&logoColor=white">
 </a>
 
 <a href="https://instagram.com/_BB5BB">
-<img src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/Instagram-2A0A45?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 </div>
@@ -42,15 +42,15 @@ I build practical local-first tools, monitoring concepts, lightweight dashboards
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Behavioral%20Monitoring-1C1C1C?style=for-the-badge">
-<img src="https://img.shields.io/badge/Detection%20Workflows-FF2D55?style=for-the-badge">
-<img src="https://img.shields.io/badge/Local--First%20Utilities-1C1C1C?style=for-the-badge">
+<img src="https://img.shields.io/badge/Behavioral%20Monitoring-2A0A45?style=for-the-badge">
+<img src="https://img.shields.io/badge/Detection%20Workflows-6A00FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Local--First%20Utilities-2A0A45?style=for-the-badge">
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Domain%20Name%20System%20Visibility-FF2D55?style=for-the-badge">
-<img src="https://img.shields.io/badge/Lightweight%20Security%20Tooling-1C1C1C?style=for-the-badge">
-<img src="https://img.shields.io/badge/Clean%20Interfaces-FF2D55?style=for-the-badge">
+<img src="https://img.shields.io/badge/Domain%20Name%20System%20Visibility-6A00FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Lightweight%20Security%20Tooling-2A0A45?style=for-the-badge">
+<img src="https://img.shields.io/badge/Clean%20Interfaces-6A00FF?style=for-the-badge">
 
 </div>
 
@@ -67,7 +67,7 @@ I build practical local-first tools, monitoring concepts, lightweight dashboards
 Lightweight Windows tray utility for cleanup, Explorer recovery, power mode switching, and compact workflow controls.
 
 <a href="https://github.com/XTUFA7/LiteBar">
-<img src="https://img.shields.io/badge/Open%20Repository-FF2D55?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Open%20Repository-6A00FF?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
@@ -83,7 +83,7 @@ Private monitoring and behavioral analysis system built around:
 * intelligence-style analysis
 * local-first monitoring concepts
 
-<img src="https://img.shields.io/badge/Private%20Project-1C1C1C?style=for-the-badge">
+<img src="https://img.shields.io/badge/Private%20Project-2A0A45?style=for-the-badge">
 
 </td>
 </tr>
@@ -98,7 +98,7 @@ Tray-first Arabic / English keyboard layout fixer.
 Select text, trigger shortcut, and replace only the selected content locally.
 
 <a href="https://github.com/XTUFA7/LayFix">
-<img src="https://img.shields.io/badge/Open%20Repository-FF2D55?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Open%20Repository-6A00FF?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
@@ -109,7 +109,7 @@ Select text, trigger shortcut, and replace only the selected content locally.
 Beginner-friendly guide for generating `.onion` domains using Tor Hidden Services with operational safety notes and isolation guidelines.
 
 <a href="https://github.com/XTUFA7/onion-domain-generator">
-<img src="https://img.shields.io/badge/Open%20Repository-FF2D55?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Open%20Repository-6A00FF?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
@@ -144,7 +144,7 @@ Beginner-friendly guide for generating `.onion` domains using Tor Hidden Service
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=13&pause=1000&color=FF4D6D&center=true&vCenter=true&width=520&lines=monitor...;analyze...;build...;improve..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=13&pause=1000&color=C77DFF&center=true&vCenter=true&width=520&lines=monitor...;analyze...;build...;improve..." />
 
 <br><br>
 
