@@ -18,57 +18,168 @@
 
 ---
 
-# 🐈 KittyGram — Featured Project
+## `> whoami`
+
+```python
+class TuFa7:
+    focus = [
+        "Defensive Cybersecurity",
+        "Reverse Engineering",
+        "Android Application Analysis",
+        "Security Tooling",
+        "Windows & Linux Systems",
+        "Automation",
+    ]
+
+    mindset = "inspect -> understand -> trace -> patch -> test -> harden"
+```
+
+I build and analyze software with a strong focus on **defensive cybersecurity, reverse engineering, system tooling, Android application analysis, automation, and debugging**.
+
+My work is centered on understanding software behavior, tracing failures, validating security boundaries, building practical utilities, and creating tools that improve visibility and control.
+
+---
 
 <div align="center">
-<a href="https://github.com/XTUFA7/KittyGram">
-<img src="./assets/kittygram-feature.gif" width="94%" alt="KittyGram featured project">
-</a>
+
+## `// profile_snapshot`
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XTUFA7&theme=github_dark" width="96%" alt="GitHub profile summary">
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=XTUFA7&theme=github_dark" width="46%" alt="GitHub stats">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=XTUFA7&theme=github_dark" width="46%" alt="Repositories per language">
+
 </div>
 
-**KittyGram** is my main active Android project: an enhanced Instagram experience built around **reverse engineering, runtime/UI hooks, feature injection, media utilities, privacy controls, and careful compatibility work across Instagram updates**.
-
-The project involves tracing changing app internals, rebuilding broken injection points, stabilizing hooks, and designing features that behave naturally inside the original app instead of feeling bolted on.
-
-`Android` `Reverse Engineering` `Hooks` `UI Injection` `App Modding` `Security` `Debugging`
-
-[![Repository](https://img.shields.io/badge/VIEW_KITTYGRAM-6A00FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XTUFA7/KittyGram)
-
 ---
 
-## `> about_me`
+# `// pinned_projects`
 
-I work across **defensive cybersecurity, reverse engineering, system tooling, automation, and Android application analysis**.
-
-My focus is practical: understanding how software behaves, tracing failures and suspicious behavior, building utilities around real workflows, and making systems easier to inspect, debug, harden, and control.
-
-I am especially interested in:
-
-- 🛡️ **Defensive Cybersecurity**
-- 🔍 **Reverse Engineering & Application Analysis**
-- 🤖 **Automation & Security Tooling**
-- 📱 **Android Modding / Runtime & UI Hooking**
-- 🧪 **Malware Analysis & Sandboxing Workflows**
-- 🖥️ **Windows & Linux System Utilities**
-- 📊 **Behavioral Monitoring & Detection Workflows**
-- 🧰 **Debugging, Instrumentation & Technical Tooling**
-
----
-
-## `> cybersecurity`
+> Main projects, tools, experiments, and security-focused work.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ Defensive Security
+### 🐈 KittyGram
 
-- Security-oriented system design
+<img src="https://img.shields.io/badge/MAIN_PROJECT-6A00FF?style=flat-square" alt="Main Project">
+<img src="https://img.shields.io/badge/ACTIVE_DEVELOPMENT-2A0A45?style=flat-square" alt="Active Development">
+
+My main Android project: an enhanced Instagram experience built around **reverse engineering, runtime/UI hooks, feature injection, privacy controls, media utilities, debugging, and compatibility work across Instagram updates**.
+
+`Android` `Reverse Engineering` `Hooks` `UI Injection` `App Modding` `Debugging`
+
+[![Repository](https://img.shields.io/badge/OPEN_REPOSITORY-6A00FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XTUFA7/KittyGram)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ LiteBar
+
+A lightweight Windows tray utility for **quick cleanup, Explorer recovery, power mode switching, shortcuts, and compact workflow controls**.
+
+`Windows` `System Utilities` `Automation` `Desktop Tooling`
+
+[![Repository](https://img.shields.io/badge/OPEN_REPOSITORY-6A00FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XTUFA7/LiteBar)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⌨️ LayFix
+
+Fix mixed Arabic and English keyboard-layout mistakes directly from selected text with a fast Windows workflow.
+
+`Windows` `Productivity` `Text Utilities` `Automation`
+
+[![Repository](https://img.shields.io/badge/OPEN_REPOSITORY-6A00FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XTUFA7/LayFix)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧅 Onion Domain Generator
+
+A beginner-friendly project for generating `.onion` domains with Tor Hidden Services, including **security best practices, isolation guidance, and operational-safety notes**.
+
+`Tor` `Privacy` `Security` `Operational Safety`
+
+[![Repository](https://img.shields.io/badge/OPEN_REPOSITORY-6A00FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XTUFA7/onion-domain-generator)
+
+</td>
+</tr>
+
+<tr>
+<td width="100%" colspan="2" valign="top">
+
+### 👁️ GodEye
+
+Private monitoring and behavioral-analysis R&D focused on **activity visibility, detection workflows, system monitoring, lightweight dashboards, and security-oriented analysis**.
+
+`Private R&D` `Monitoring` `Behavioral Analysis` `Detection` `Security Research`
+
+![Private](https://img.shields.io/badge/PRIVATE_PROJECT-2A0A45?style=for-the-badge&logo=shield&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+# Favorite Tech
+
+> Tools, languages, systems, and technologies I use across development, automation, security, and analysis.
+
+<table align="center">
+<tr>
+<td align="center" width="12.5%"><img src="https://skillicons.dev/icons?i=cs" width="48"><br><b>C#</b></td>
+<td align="center" width="12.5%"><img src="https://skillicons.dev/icons?i=python" width="48"><br><b>Python</b></td>
+<td align="center" width="12.5%"><img src="https://skillicons.dev/icons?i=js" width="48"><br><b>JavaScript</b></td>
+<td align="center" width="12.5%"><img src="https://skillicons.dev/icons?i=bash" width="48"><br><b>Bash</b></td>
+<td align="center" width="12.5%"><img src="https://skillicons.dev/icons?i=powershell" width="48"><br><b>PowerShell</b></td>
+<td align="center" width="12.5%"><img src="https://skillicons.dev/icons?i=html" width="48"><br><b>HTML</b></td>
+<td align="center" width="12.5%"><img src="https://skillicons.dev/icons?i=css" width="48"><br><b>CSS</b></td>
+<td align="center" width="12.5%"><img src="https://skillicons.dev/icons?i=git" width="48"><br><b>Git</b></td>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=windows" width="48"><br><b>Windows</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48"><br><b>Linux</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=arch" width="48"><br><b>Arch</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48"><br><b>Docker</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nginx" width="48"><br><b>Nginx</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="48"><br><b>SQLite</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="48"><br><b>VS Code</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=visualstudio" width="48"><br><b>Visual Studio</b></td>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" width="48"><br><b>GitHub</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" width="48"><br><b>Android</b></td>
+<td align="center" colspan="6"><code>Reverse Engineering</code> · <code>Debugging</code> · <code>Application Analysis</code> · <code>Security Tooling</code> · <code>Automation</code> · <code>Monitoring</code></td>
+</tr>
+</table>
+
+---
+
+# `// security_and_reverse_engineering`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ Defensive Cybersecurity
+
+- Defensive security engineering
 - Detection and monitoring workflows
 - Behavioral analysis
 - Security logging and auditability
+- Permission and trust-boundary validation
 - Attack-surface reduction
-- Safe automation and defensive tooling
+- Security-oriented automation
+- Defensive defaults and hardening
 
 </td>
 <td width="50%" valign="top">
@@ -78,9 +189,11 @@ I am especially interested in:
 - Android application analysis
 - Runtime behavior tracing
 - Hook and injection debugging
-- Compatibility analysis across app versions
-- Control-flow and feature-path investigation
-- Patch validation and regression testing
+- Control-flow investigation
+- Version compatibility analysis
+- Patch validation
+- Regression analysis
+- Crash and failure investigation
 
 </td>
 </tr>
@@ -93,20 +206,22 @@ I am especially interested in:
 - Sandboxing concepts
 - Process and activity visibility
 - Event correlation
-- Failure and crash investigation
+- Static and dynamic analysis concepts
+- Debugging and instrumentation
 - Security-focused experimentation
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Systems & Automation
+### ⚙️ Development & Automation
 
-- Windows utilities
+- Windows desktop utilities
 - Linux / Arch workflows
-- Shell automation
-- Discord / Telegram tooling
-- Background services and monitoring
-- Lightweight technical interfaces
+- Discord bot development
+- Telegram tooling
+- Shell scripting and automation
+- Background services
+- Technical dashboards and interfaces
 
 </td>
 </tr>
@@ -114,99 +229,26 @@ I am especially interested in:
 
 ---
 
-## `> languages_and_tools`
-
-<div align="center">
-
-### Languages & Scripting
-
-<img src="https://skillicons.dev/icons?i=python,js,cs,bash,powershell,html,css" alt="Programming languages">
-
-<br><br>
-
-### Systems & Development
-
-<img src="https://skillicons.dev/icons?i=linux,arch,windows,docker,nginx,sqlite,git,github,vscode,visualstudio" alt="Systems and development tools">
-
-</div>
-
-<br>
+## `> programming`
 
 ```text
-Python      → automation, tooling, analysis workflows
-JavaScript  → bots, utilities, integrations
-C#          → Windows tooling and desktop utilities
-Bash        → Linux automation and system workflows
-PowerShell  → Windows automation and administration
-HTML / CSS  → interfaces, dashboards and project presentation
+C#          -> Windows tools, desktop utilities, system workflows
+Python      -> automation, tooling, analysis workflows
+JavaScript  -> bots, utilities, integrations
+Bash        -> Linux automation and system workflows
+PowerShell  -> Windows automation and administration
+HTML / CSS  -> interfaces, dashboards, project presentation
 ```
 
 ---
 
-# `// pinned_projects`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## ⚡ LiteBar
-
-A lightweight Windows tray utility for quick cleanup, **Explorer recovery, power mode switching, shortcuts, and compact workflow controls**.
-
-`Windows` `System Utilities` `Automation`
-
-[![Repository](https://img.shields.io/badge/OPEN_REPOSITORY-6A00FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XTUFA7/LiteBar)
-
-</td>
-<td width="50%" valign="top">
-
-## ⌨️ LayFix
-
-Fix mixed Arabic and English keyboard-layout mistakes instantly from selected text while keeping the workflow fast and lightweight.
-
-`Windows` `Productivity` `Text Utilities`
-
-[![Repository](https://img.shields.io/badge/OPEN_REPOSITORY-6A00FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XTUFA7/LayFix)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-## 🧅 Onion Domain Generator
-
-A beginner-friendly guide for generating `.onion` domains using Tor Hidden Services with **security best practices and isolation guidance**.
-
-`Tor` `Privacy` `Operational Safety`
-
-[![Repository](https://img.shields.io/badge/OPEN_REPOSITORY-6A00FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XTUFA7/onion-domain-generator)
-
-</td>
-<td width="50%" valign="top">
-
-## 👁️ GodEye
-
-Private monitoring and behavioral-analysis R&D focused on **activity visibility, lightweight dashboards, detection workflows, and system monitoring concepts**.
-
-`Private R&D` `Monitoring` `Behavioral Analysis` `Detection`
-
-![Private](https://img.shields.io/badge/PRIVATE_PROJECT-2A0A45?style=for-the-badge&logo=shield&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
-
-## `> how_i_work`
+## `> workflow`
 
 ```text
-inspect → understand → reproduce → trace → patch → test → harden
+inspect -> understand -> reproduce -> trace -> patch -> test -> harden
 ```
 
-I care more about **correct behavior and reliable engineering** than feature count.  
-For security-related work, I prefer explicit permissions, audit trails, validation, isolation, and defensive defaults.
+I care about **correct behavior, clear technical structure, reliable tooling, security boundaries, and reproducible debugging** more than feature count.
 
 ---
 
@@ -214,12 +256,7 @@ For security-related work, I prefer explicit permissions, audit trails, validati
 
 ## `// github_activity`
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=XTUFA7&show_icons=true&hide_border=true&bg_color=00000000&title_color=C77DFF&text_color=BDA9CD&icon_color=6A00FF" alt="GitHub statistics">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XTUFA7&layout=compact&hide_border=true&bg_color=00000000&title_color=C77DFF&text_color=BDA9CD" alt="Most used languages">
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=XTUFA7&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub trophies">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=XTUFA7&theme=github-dark-blue&hide_border=true" width="69%" alt="GitHub streak">
 
 <br><br>
 
