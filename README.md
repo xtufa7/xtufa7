@@ -1,29 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=0xTuFa7&fontSize=44&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF&color=0:120018,45:2A0A45,100:6A00FF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&text=0xTuFa7&fontSize=44&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF&color=0:120018,45:2A0A45,100:6A00FF"/>
 
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=15&pause=1200&color=C77DFF&center=true&vCenter=true&width=780&lines=Defensive+security+and+behavioral+analysis...;Building+lightweight+tools+and+monitoring+systems...;Windows+and+Linux+workflows+with+clean+technical+interfaces..." />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Windows%2011-6A00FF?style=for-the-badge&logo=windows&logoColor=white">
-<img src="https://img.shields.io/badge/Arch%20Linux-2A0A45?style=for-the-badge&logo=archlinux&logoColor=white">
-<img src="https://img.shields.io/badge/Local--First-6A00FF?style=for-the-badge">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=15&pause=1200&color=C77DFF&center=true&vCenter=true&width=760&lines=Defensive+Security+%7C+Behavioral+Analysis;Lightweight+Tools+%7C+Local-First+Systems;Windows+%26+Linux+Engineering" />
 
 <br><br>
 
 <a href="https://github.com/XTUFA7">
-<img src="https://img.shields.io/badge/GitHub-2A0A45?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-2A0A45?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
 <a href="https://x.com/0xtufa7">
-<img src="https://img.shields.io/badge/X-6A00FF?style=for-the-badge&logo=x&logoColor=white">
+  <img src="https://img.shields.io/badge/X-6A00FF?style=for-the-badge&logo=x&logoColor=white">
 </a>
-
 <a href="https://instagram.com/_BB5BB">
-<img src="https://img.shields.io/badge/Instagram-2A0A45?style=for-the-badge&logo=instagram&logoColor=white">
+  <img src="https://img.shields.io/badge/Instagram-2A0A45?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 </div>
@@ -32,85 +22,49 @@
 
 ## About
 
-Defensive security builder focused on monitoring workflows, behavioral analysis, lightweight tooling, and clean system utilities.
+Defensive security builder focused on **behavioral analysis, monitoring workflows, local-first utilities, and lightweight system tooling**.
 
-I build practical local-first tools, monitoring concepts, lightweight dashboards, and security-focused workflows across Windows and Linux environments.
-
----
-
-## Focus
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Behavioral%20Monitoring-2A0A45?style=for-the-badge">
-<img src="https://img.shields.io/badge/Detection%20Workflows-6A00FF?style=for-the-badge">
-<img src="https://img.shields.io/badge/Local--First%20Utilities-2A0A45?style=for-the-badge">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Domain%20Name%20System%20Visibility-6A00FF?style=for-the-badge">
-<img src="https://img.shields.io/badge/Lightweight%20Security%20Tooling-2A0A45?style=for-the-badge">
-<img src="https://img.shields.io/badge/Clean%20Interfaces-6A00FF?style=for-the-badge">
-
-</div>
+I build practical tools for Windows and Linux with an emphasis on **clean interfaces, low overhead, visibility, and security-oriented engineering**.
 
 ---
 
-## Projects
+## Selected Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ⚡ LiteBar
+Lightweight Windows tray utility for cleanup, Explorer recovery, power-mode switching, and quick system controls.
 
-Lightweight Windows tray utility for cleanup, Explorer recovery, power mode switching, and compact workflow controls.
-
-<a href="https://github.com/XTUFA7/LiteBar">
-<img src="https://img.shields.io/badge/Open%20Repository-6A00FF?style=for-the-badge&logo=github&logoColor=white">
-</a>
+[**Open Repository →**](https://github.com/XTUFA7/LiteBar)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 👁️ GodEye
+Private behavioral monitoring and analysis system focused on visibility, detection workflows, lightweight dashboards, and local-first analysis.
 
-Private monitoring and behavioral analysis system built around:
-
-* activity visibility
-* lightweight dashboards
-* detection workflows
-* intelligence-style analysis
-* local-first monitoring concepts
-
-<img src="https://img.shields.io/badge/Private%20Project-2A0A45?style=for-the-badge">
+**Private Project**
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ⌨️ LayFix
+Arabic / English keyboard layout fixer that replaces only selected text locally through a quick shortcut.
 
-Tray-first Arabic / English keyboard layout fixer.
-
-Select text, trigger shortcut, and replace only the selected content locally.
-
-<a href="https://github.com/XTUFA7/LayFix">
-<img src="https://img.shields.io/badge/Open%20Repository-6A00FF?style=for-the-badge&logo=github&logoColor=white">
-</a>
+[**Open Repository →**](https://github.com/XTUFA7/LayFix)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🧅 Onion Domain Generator
+Beginner-friendly guide to generating `.onion` domains with Tor Hidden Services, including isolation and operational-safety notes.
 
-Beginner-friendly guide for generating `.onion` domains using Tor Hidden Services with operational safety notes and isolation guidelines.
-
-<a href="https://github.com/XTUFA7/onion-domain-generator">
-<img src="https://img.shields.io/badge/Open%20Repository-6A00FF?style=for-the-badge&logo=github&logoColor=white">
-</a>
+[**Open Repository →**](https://github.com/XTUFA7/onion-domain-generator)
 
 </td>
 </tr>
@@ -118,25 +72,15 @@ Beginner-friendly guide for generating `.onion` domains using Tor Hidden Service
 
 ---
 
-## Tech Stack
+## Stack
 
 <div align="center">
 
-### Languages & Scripting
-
-<img src="https://skillicons.dev/icons?i=python,bash,powershell,js,html,css,cs"/>
+<img src="https://skillicons.dev/icons?i=python,js,cs,bash,powershell,html,css" />
 
 <br><br>
 
-### Systems & Tools
-
-<img src="https://skillicons.dev/icons?i=linux,arch,windows,git,github,vscode,visualstudio"/>
-
-<br><br>
-
-### Security & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=cloudflare,docker,nginx,sqlite"/>
+<img src="https://skillicons.dev/icons?i=linux,arch,windows,docker,nginx,sqlite,git,github" />
 
 </div>
 
@@ -144,10 +88,10 @@ Beginner-friendly guide for generating `.onion` domains using Tor Hidden Service
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=13&pause=1000&color=C77DFF&center=true&vCenter=true&width=520&lines=monitor...;analyze...;build...;improve..." />
+**Build small. Observe deeply. Secure by design.**
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:6A00FF,100:120018"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:6A00FF,100:120018"/>
 
 </div>
