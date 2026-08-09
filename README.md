@@ -1,17 +1,11 @@
 <div align="center">
 
-<img src="./assets/hero-security.gif" width="100%" alt="0xTuFa7 — Defensive Security, Android and Systems Engineering">
+<img src="./assets/cyber-reversing.gif" width="100%" alt="0xTuFa7 — Defensive Security and Reverse Engineering">
 
-<br>
+<br><br>
 
-### Security · Android · Systems Builder
-
-**Defensive Security** · **Behavioral Analysis** · **Android Development** · **Local-First Tools** · **Windows & Linux**
-
-<br>
-
-<a href="https://github.com/xtufa7">
-  <img src="https://img.shields.io/badge/GitHub-17121F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<a href="https://github.com/XTUFA7">
+  <img src="https://img.shields.io/badge/GitHub-151820?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 <a href="https://x.com/0xtufa7">
   <img src="https://img.shields.io/badge/X-6A00FF?style=for-the-badge&logo=x&logoColor=white" alt="X">
@@ -19,45 +13,100 @@
 <a href="https://instagram.com/_BB5BB">
   <img src="https://img.shields.io/badge/Instagram-2A0A45?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
-<a href="https://t.me/xKittygram">
-  <img src="https://img.shields.io/badge/KittyGram_Updates-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="KittyGram Telegram">
-</a>
 
 </div>
 
-<br>
+---
+
+# 🐈 KittyGram — Featured Project
+
+<div align="center">
+<a href="https://github.com/XTUFA7/KittyGram">
+<img src="./assets/kittygram-feature.gif" width="94%" alt="KittyGram featured project">
+</a>
+</div>
+
+**KittyGram** is my main active Android project: an enhanced Instagram experience built around **reverse engineering, runtime/UI hooks, feature injection, media utilities, privacy controls, and careful compatibility work across Instagram updates**.
+
+The project involves tracing changing app internals, rebuilding broken injection points, stabilizing hooks, and designing features that behave naturally inside the original app instead of feeling bolted on.
+
+`Android` `Reverse Engineering` `Hooks` `UI Injection` `App Modding` `Security` `Debugging`
+
+[![Repository](https://img.shields.io/badge/VIEW_KITTYGRAM-6A00FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XTUFA7/KittyGram)
+
+---
+
+## `> about_me`
+
+I work across **defensive cybersecurity, reverse engineering, system tooling, automation, and Android application analysis**.
+
+My focus is practical: understanding how software behaves, tracing failures and suspicious behavior, building utilities around real workflows, and making systems easier to inspect, debug, harden, and control.
+
+I am especially interested in:
+
+- 🛡️ **Defensive Cybersecurity**
+- 🔍 **Reverse Engineering & Application Analysis**
+- 🤖 **Automation & Security Tooling**
+- 📱 **Android Modding / Runtime & UI Hooking**
+- 🧪 **Malware Analysis & Sandboxing Workflows**
+- 🖥️ **Windows & Linux System Utilities**
+- 📊 **Behavioral Monitoring & Detection Workflows**
+- 🧰 **Debugging, Instrumentation & Technical Tooling**
+
+---
+
+## `> cybersecurity`
 
 <table>
 <tr>
-<td width="52%" valign="top">
+<td width="50%" valign="top">
 
-## `> whoami`
+### 🛡️ Defensive Security
 
-I build **security-focused software, Android projects, and lightweight system utilities** around visibility, privacy, automation, and practical workflows.
-
-My work spans **Android, Windows, and Linux**, with a strong preference for **clean interfaces, low overhead, local-first design, and secure-by-design engineering**.
+- Security-oriented system design
+- Detection and monitoring workflows
+- Behavioral analysis
+- Security logging and auditability
+- Attack-surface reduction
+- Safe automation and defensive tooling
 
 </td>
-<td width="48%" valign="top">
+<td width="50%" valign="top">
 
-## `> current_focus`
+### 🔬 Reverse Engineering
 
-```yaml
-security:
-  - behavioral monitoring
-  - threat detection
-  - defensive tooling
+- Android application analysis
+- Runtime behavior tracing
+- Hook and injection debugging
+- Compatibility analysis across app versions
+- Control-flow and feature-path investigation
+- Patch validation and regression testing
 
-development:
-  - Android
-  - Windows utilities
-  - Linux automation
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-principles:
-  - local-first
-  - lightweight
-  - secure-by-design
-```
+### 🧪 Analysis & Research
+
+- Malware-analysis workflows
+- Sandboxing concepts
+- Process and activity visibility
+- Event correlation
+- Failure and crash investigation
+- Security-focused experimentation
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Systems & Automation
+
+- Windows utilities
+- Linux / Arch workflows
+- Shell automation
+- Discord / Telegram tooling
+- Background services and monitoring
+- Lightweight technical interfaces
 
 </td>
 </tr>
@@ -65,110 +114,59 @@ principles:
 
 ---
 
+## `> languages_and_tools`
+
 <div align="center">
 
-# 🐈 KittyGram
+### Languages & Scripting
 
-### `FEATURED PROJECT`
-
-**A cleaner, more capable Instagram experience for Android.**
-
-<img src="https://img.shields.io/badge/Android-12%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android 12+">
-<img src="https://img.shields.io/badge/Instagram-440.0.0.12.86-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram 440">
-<img src="https://img.shields.io/badge/Status-Active_Development-6A00FF?style=for-the-badge" alt="Active Development">
-<img src="https://img.shields.io/badge/License-GPL--3.0-2A0A45?style=for-the-badge" alt="GPL-3.0">
+<img src="https://skillicons.dev/icons?i=python,js,cs,bash,powershell,html,css" alt="Programming languages">
 
 <br><br>
 
-KittyGram is my Android project focused on extending the Instagram experience with a custom interface, privacy-oriented controls, media and workflow enhancements, and deeper app-level customization.
+### Systems & Development
 
-Built with an emphasis on **stability, clean integration, privacy, and a native-feeling user experience**.
+<img src="https://skillicons.dev/icons?i=linux,arch,windows,docker,nginx,sqlite,git,github,vscode,visualstudio" alt="Systems and development tools">
+
+</div>
 
 <br>
 
-[![KittyGram Repository](https://img.shields.io/badge/VIEW_KITTYGRAM-6A00FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xtufa7/KittyGram)
-[![Telegram](https://img.shields.io/badge/PROJECT_UPDATES-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xKittygram)
-
-</div>
-
----
-
-<div align="center">
-
-## `// what_i_build`
-
-</div>
-
-<table>
-<tr>
-<td width="25%" align="center" valign="top">
-
-### 🛡️ Defend
-Security-oriented tooling, controls, and detection workflows.
-
-</td>
-<td width="25%" align="center" valign="top">
-
-### 📱 Build
-Android projects and app-level interface and workflow customization.
-
-</td>
-<td width="25%" align="center" valign="top">
-
-### 👁️ Observe
-Behavioral monitoring with useful context instead of raw noise.
-
-</td>
-<td width="25%" align="center" valign="top">
-
-### ⚡ Optimize
-Small system utilities built for speed, low overhead, and practical use.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-<img src="./assets/security-loop.gif" width="88%" alt="Monitor, analyze, detect and harden loop">
-</div>
+```text
+Python      → automation, tooling, analysis workflows
+JavaScript  → bots, utilities, integrations
+C#          → Windows tooling and desktop utilities
+Bash        → Linux automation and system workflows
+PowerShell  → Windows automation and administration
+HTML / CSS  → interfaces, dashboards and project presentation
+```
 
 ---
 
-<div align="center">
-
-## `// pinned_projects`
-
-</div>
+# `// pinned_projects`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ LiteBar
+## ⚡ LiteBar
 
-A lightweight Windows tray utility for **quick cleanup, Explorer recovery, power mode switching, shortcuts, and compact workflow controls**.
+A lightweight Windows tray utility for quick cleanup, **Explorer recovery, power mode switching, shortcuts, and compact workflow controls**.
 
-`Windows` `System Utilities` `Automation` `Lightweight`
+`Windows` `System Utilities` `Automation`
 
-<br>
-
-[![Repository](https://img.shields.io/badge/OPEN_REPOSITORY-6A00FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xtufa7/LiteBar)
+[![Repository](https://img.shields.io/badge/OPEN_REPOSITORY-6A00FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XTUFA7/LiteBar)
 
 </td>
-
 <td width="50%" valign="top">
 
-### ⌨️ LayFix
+## ⌨️ LayFix
 
-Fix mixed Arabic and English keyboard-layout mistakes instantly from selected text while keeping the workflow **local and lightweight**.
+Fix mixed Arabic and English keyboard-layout mistakes instantly from selected text while keeping the workflow fast and lightweight.
 
-`Windows` `Productivity` `Local Processing`
+`Windows` `Productivity` `Text Utilities`
 
-<br>
-
-[![Repository](https://img.shields.io/badge/OPEN_REPOSITORY-6A00FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xtufa7/LayFix)
+[![Repository](https://img.shields.io/badge/OPEN_REPOSITORY-6A00FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XTUFA7/LayFix)
 
 </td>
 </tr>
@@ -176,27 +174,22 @@ Fix mixed Arabic and English keyboard-layout mistakes instantly from selected te
 <tr>
 <td width="50%" valign="top">
 
-### 🧅 Onion Domain Generator
+## 🧅 Onion Domain Generator
 
 A beginner-friendly guide for generating `.onion` domains using Tor Hidden Services with **security best practices and isolation guidance**.
 
 `Tor` `Privacy` `Operational Safety`
 
-<br>
-
-[![Repository](https://img.shields.io/badge/OPEN_REPOSITORY-6A00FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xtufa7/onion-domain-generator)
+[![Repository](https://img.shields.io/badge/OPEN_REPOSITORY-6A00FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XTUFA7/onion-domain-generator)
 
 </td>
-
 <td width="50%" valign="top">
 
-### 👁️ GodEye
+## 👁️ GodEye
 
-Private monitoring and behavioral-analysis R&D focused on **activity visibility, lightweight dashboards, detection workflows, and local-first monitoring concepts**.
+Private monitoring and behavioral-analysis R&D focused on **activity visibility, lightweight dashboards, detection workflows, and system monitoring concepts**.
 
 `Private R&D` `Monitoring` `Behavioral Analysis` `Detection`
-
-<br>
 
 ![Private](https://img.shields.io/badge/PRIVATE_PROJECT-2A0A45?style=for-the-badge&logo=shield&logoColor=white)
 
@@ -206,52 +199,14 @@ Private monitoring and behavioral-analysis R&D focused on **activity visibility,
 
 ---
 
-<div align="center">
+## `> how_i_work`
 
-## `// toolkit`
+```text
+inspect → understand → reproduce → trace → patch → test → harden
+```
 
-### Languages & Scripting
-
-<img src="https://skillicons.dev/icons?i=python,js,cs,bash,powershell,html,css" alt="Languages and scripting tools">
-
-<br><br>
-
-### Platforms, Systems & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=androidstudio,linux,arch,windows,docker,nginx,sqlite,git,github,vscode,visualstudio" alt="Platforms systems and infrastructure tools">
-
-</div>
-
----
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## `> engineering_principles`
-
-- **Secure by design** — security belongs in the architecture.
-- **Privacy-aware** — minimize unnecessary data exposure.
-- **Low overhead** — useful software should not fight the system it runs on.
-- **Observable** — important actions should be understandable and auditable.
-- **Practical** — build around real workflows, not feature count.
-
-</td>
-<td width="50%" valign="top">
-
-## `> areas_of_interest`
-
-- Defensive security engineering
-- Android application development
-- Behavioral and activity analysis
-- Detection and monitoring workflows
-- Windows system utilities
-- Linux tooling and automation
-- Privacy-focused product design
-
-</td>
-</tr>
-</table>
+I care more about **correct behavior and reliable engineering** than feature count.  
+For security-related work, I prefer explicit permissions, audit trails, validation, isolation, and defensive defaults.
 
 ---
 
@@ -259,25 +214,19 @@ Private monitoring and behavioral-analysis R&D focused on **activity visibility,
 
 ## `// github_activity`
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=xtufa7&show_icons=true&hide_border=true&bg_color=00000000&title_color=C77DFF&text_color=BDA9CD&icon_color=6A00FF" alt="0xTuFa7 GitHub statistics">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtufa7&layout=compact&hide_border=true&bg_color=00000000&title_color=C77DFF&text_color=BDA9CD" alt="0xTuFa7 most used languages">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=XTUFA7&show_icons=true&hide_border=true&bg_color=00000000&title_color=C77DFF&text_color=BDA9CD&icon_color=6A00FF" alt="GitHub statistics">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XTUFA7&layout=compact&hide_border=true&bg_color=00000000&title_color=C77DFF&text_color=BDA9CD" alt="Most used languages">
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=xtufa7&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub trophies">
-
-</div>
-
----
-
-<div align="center">
-
-### `build → observe → analyze → harden`
-
-<sub>Build small. Observe deeply. Secure by design.</sub>
+<img src="https://github-profile-trophy.vercel.app/?username=XTUFA7&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub trophies">
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=xtufa7&style=for-the-badge&color=6A00FF&label=PROFILE+VIEWS" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=XTUFA7&style=for-the-badge&color=6A00FF&label=PROFILE+VIEWS" alt="Profile views">
+
+<br><br>
+
+<sub>Defend • Reverse • Build • Harden</sub>
 
 </div>
