@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/cyber-reversing.gif" width="100%" alt="0xTuFa7 — Defensive Security & Reverse Engineering">
+<img src="./assets/cyber-reversing.gif" width="100%" alt="0xTuFa7 — Defensive Security and Reverse Engineering">
 
 <br><br>
 
@@ -26,69 +26,109 @@
 
 ## `> whoami`
 
-```text
-security      defensive cybersecurity
-reversing     android / runtime analysis
-building      tools, utilities, automation
-systems       windows · linux · arch
+```python
+class TuFa7:
+    focus = [
+        "Defensive Cybersecurity",
+        "Reverse Engineering",
+        "Android Analysis",
+        "Security Tooling",
+        "Automation"
+    ]
+
+    workflow = "inspect -> trace -> patch -> test -> harden"
 ```
 
-> I inspect software, trace behavior, patch problems, test changes, and harden the result.
+I build and analyze software with a focus on **defensive security, reversing, debugging, automation, and practical system tooling**.
 
 ---
 
-## `// pinned_projects`
-
-<div align="center">
-
-<a href="https://github.com/XTUFA7/KittyGram">
-  <img src="https://img.shields.io/badge/🐈_KittyGram-6A00FF?style=for-the-badge&logo=github&logoColor=white" alt="KittyGram">
-</a>
-&nbsp;
-<a href="https://github.com/XTUFA7/LiteBar">
-  <img src="https://img.shields.io/badge/⚡_LiteBar-2A0A45?style=for-the-badge&logo=github&logoColor=white" alt="LiteBar">
-</a>
-
-<br><br>
-
-<a href="https://github.com/XTUFA7/LayFix">
-  <img src="https://img.shields.io/badge/⌨️_LayFix-6A00FF?style=for-the-badge&logo=github&logoColor=white" alt="LayFix">
-</a>
-&nbsp;
-<a href="https://github.com/XTUFA7/onion-domain-generator">
-  <img src="https://img.shields.io/badge/🧅_Onion_Generator-2A0A45?style=for-the-badge&logo=github&logoColor=white" alt="Onion Domain Generator">
-</a>
-
-</div>
-
-<br>
+# `// pinned_projects`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🐈 KittyGram
-Android reverse-engineering project focused on runtime hooks, UI injection, privacy controls, media tooling, debugging, and compatibility work.
+
+A cleaner, more capable Instagram experience for Android.
+
+<br>
+
+<a href="https://github.com/XTUFA7/KittyGram">
+  <img src="https://img.shields.io/badge/OPEN_KITTYGRAM-6A00FF?style=for-the-badge&logo=github&logoColor=white" alt="Open KittyGram">
+</a>
 
 </td>
 <td width="50%" valign="top">
 
 ### ⚡ LiteBar
-Compact Windows tray utility for cleanup, Explorer recovery, power controls, shortcuts, and fast system actions.
+
+Lightweight Windows tray utility for cleanup, Explorer recovery, power modes, shortcuts, and compact workflow controls.
+
+<br>
+
+<a href="https://github.com/XTUFA7/LiteBar">
+  <img src="https://img.shields.io/badge/OPEN_LITEBAR-2A0A45?style=for-the-badge&logo=github&logoColor=white" alt="Open LiteBar">
+</a>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
 ### ⌨️ LayFix
-Fast Windows utility for correcting text typed with the wrong Arabic / English keyboard layout.
+
+Fix mixed Arabic and English keyboard-layout mistakes instantly from selected text.
+
+<br>
+
+<a href="https://github.com/XTUFA7/LayFix">
+  <img src="https://img.shields.io/badge/OPEN_LAYFIX-6A00FF?style=for-the-badge&logo=github&logoColor=white" alt="Open LayFix">
+</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🧅 Onion Domain Generator
-Tor Hidden Service tooling with privacy, isolation, and operational-safety guidance.
+### 💸 ExpenseFlow
+
+Modern and customizable expense-tracking application built with Flutter.
+
+<br>
+
+<a href="https://github.com/XTUFA7/ExpenseFlow">
+  <img src="https://img.shields.io/badge/OPEN_EXPENSEFLOW-2A0A45?style=for-the-badge&logo=github&logoColor=white" alt="Open ExpenseFlow">
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎥 LiteReplay
+
+Lightweight local instant-replay recorder for Windows with a rolling video buffer.
+
+<br>
+
+<a href="https://github.com/XTUFA7/LiteReplay">
+  <img src="https://img.shields.io/badge/OPEN_LITEREPLAY-6A00FF?style=for-the-badge&logo=github&logoColor=white" alt="Open LiteReplay">
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ Secdeck
+
+Linux terminal security guide with offensive and defensive learning paths, simulations, references, and safe tooling workflows.
+
+<br>
+
+<a href="https://github.com/XTUFA7/Secdeck">
+  <img src="https://img.shields.io/badge/OPEN_SECDECK-2A0A45?style=for-the-badge&logo=github&logoColor=white" alt="Open Secdeck">
+</a>
 
 </td>
 </tr>
@@ -96,7 +136,7 @@ Tor Hidden Service tooling with privacy, isolation, and operational-safety guida
 
 ---
 
-## `// stack`
+# `// stack`
 
 <div align="center">
 
@@ -110,18 +150,47 @@ Tor Hidden Service tooling with privacy, isolation, and operational-safety guida
 
 ---
 
-## `// focus`
+# `// security_and_reversing`
 
-```text
-Reverse Engineering        Runtime / Hook Debugging
-Android Application        Static & Dynamic Analysis
-Security Monitoring        Automation & Tooling
-Windows / Linux            Defensive Hardening
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ Defensive
+
+- Security monitoring
+- Threat detection workflows
+- Hardening & defensive defaults
+- Logging & visibility
+- Automation
+
+</td>
+<td width="50%" valign="top">
+
+### 🔬 Reversing
+
+- Android application analysis
+- Runtime behavior tracing
+- Hook / injection debugging
+- Static & dynamic analysis
+- Regression investigation
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XTUFA7&theme=github_dark" width="94%" alt="GitHub profile summary">
+## `// github_activity`
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XTUFA7&theme=github_dark" width="96%" alt="GitHub profile summary">
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=XTUFA7&theme=github_dark" width="46%" alt="GitHub stats">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=XTUFA7&theme=github_dark" width="46%" alt="Repositories per language">
 
 <br><br>
 
@@ -133,49 +202,19 @@ Windows / Linux            Defensive Hardening
 
 <div align="center">
 
-## `// wired`
+## `// the_wired`
 
-</div>
+<a href="https://github.com/justchokingaround/wallpapers/blob/main/lain-monitors.png">
+  <img src="https://raw.githubusercontent.com/justchokingaround/wallpapers/main/lain-monitors.png" width="100%" alt="Lain Iwakura — The Wired">
+</a>
 
-```text
-                         .-""""""""-.
-                    _.-'              '-._
-                 .-'                      '-.
-               .'                            '.
-              /                                \
-             /                                  \
-            ;            _..------.._            ;
-            |         .-'            '-.         |
-            |       .'                  '.       |
-            |      /      _      _        \      |
-            |     ;      (_)    (_)        ;     |
-            |     |          __            |     |
-            |     ;        .'  '.          ;     |
-            |      \      /      \        /      |
-            |       '.    \______/      .'       |
-            |         '-._          _.-'         |
-            |             '--------'             |
-            |                                    |
-            |      ///////          \\\\\\\      |
-            |    ///////              \\\\\\\    |
-            |   //////     LAIN         \\\\\\   |
-            |  /////                      \\\\\  |
-            | ////      .----------.       \\\\ |
-            |///       /            \        \\\|
-            /         /   THE WIRED  \          \
-           /         /________________\          \
-          /          |  01001100 01  |           \
-         /           |  connected... |            \
-        /            |_______________|             \
-       '----------------------------------------------'
+<br><br>
 
-                 present day, present time.
-                      hahahahaha...
-```
+<a href="https://github.com/justchokingaround/wallpapers/blob/main/lain-black.jpg">
+  <img src="https://raw.githubusercontent.com/justchokingaround/wallpapers/main/lain-black.jpg" width="100%" alt="Lain Iwakura">
+</a>
 
-<div align="center">
-
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=XTUFA7&style=for-the-badge&color=6A00FF&label=PROFILE+VIEWS" alt="Profile views">
 
