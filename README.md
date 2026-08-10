@@ -202,16 +202,10 @@ Linux terminal security guide with offensive and defensive learning paths, simul
 
 <div align="center">
 
-## `// the_wired`
+## `//Main`
 
 <a href="https://github.com/justchokingaround/wallpapers/blob/main/lain-monitors.png">
   <img src="https://raw.githubusercontent.com/justchokingaround/wallpapers/main/lain-monitors.png" width="100%" alt="Lain Iwakura — The Wired">
-</a>
-
-<br><br>
-
-<a href="https://github.com/justchokingaround/wallpapers/blob/main/lain-black.jpg">
-  <img src="https://raw.githubusercontent.com/justchokingaround/wallpapers/main/lain-black.jpg" width="100%" alt="Lain Iwakura">
 </a>
 
 <br><br>
