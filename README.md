@@ -16,7 +16,7 @@
 <a href="https://x.com/0xtufa7">
   <img src="https://img.shields.io/badge/X-6A00FF?style=for-the-badge&logo=x&logoColor=white" alt="X">
 </a>
-<a href="https://instagram.com/_BB5BB">
+<a href="https://instagram.com/_inoor.jpg">
   <img src="https://img.shields.io/badge/Instagram-2A0A45?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
