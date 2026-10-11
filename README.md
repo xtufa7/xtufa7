@@ -1,219 +1,39 @@
 <div align="center">
+  <img src="./assets/core-3d.gif" width="100%" alt="0xTuFa7 — a rotating 3D crystal, orbiting satellites and a defensive security lab">
 
-<img src="./assets/cyber-reversing.gif" width="100%" alt="0xTuFa7 — Defensive Security and Reverse Engineering">
-
-<br><br>
-
-# `0xTuFa7`
-
-**Defensive Security · Reverse Engineering · Android Analysis · Security Tooling**
-
-<br>
-
-<a href="https://github.com/XTUFA7">
-  <img src="https://img.shields.io/badge/GitHub-151820?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="https://x.com/0xtufa7">
-  <img src="https://img.shields.io/badge/X-6A00FF?style=for-the-badge&logo=x&logoColor=white" alt="X">
-</a>
-<a href="https://instagram.com/inoor.jpg">
-  <img src="https://img.shields.io/badge/Instagram-2A0A45?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-
+  <p><b>Defensive security · Reverse engineering · Android analysis</b><br>I build practical tools and trace how software works.</p>
+  <p><code>C# / .NET</code> · <code>TypeScript</code> · <code>Python</code> · <code>Flutter</code> · <code>Android</code></p>
+  <a href="https://x.com/0xtufa7">X</a> · <a href="https://instagram.com/_bb5bb">Instagram</a> · <a href="https://github.com/xtufa7?tab=repositories">All projects ↗</a>
 </div>
 
----
-
-## `> whoami`
-
-```python
-class TuFa7:
-    focus = [
-        "Defensive Cybersecurity",
-        "Reverse Engineering",
-        "Android Analysis",
-        "Security Tooling",
-        "Automation"
-    ]
-
-    workflow = "inspect -> trace -> patch -> test -> harden"
-```
-
-I build and analyze software with a focus on **defensive security, reversing, debugging, automation, and practical system tooling**.
-
----
-
-# `// pinned_projects`
+### Selected builds
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🐈 KittyGram
-
-A cleaner, more capable Instagram experience for Android.
-
-<br>
-
-<a href="https://github.com/XTUFA7/KittyGram">
-  <img src="https://img.shields.io/badge/OPEN_KITTYGRAM-6A00FF?style=for-the-badge&logo=github&logoColor=white" alt="Open KittyGram">
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ LiteBar
-
-Lightweight Windows tray utility for cleanup, Explorer recovery, power modes, shortcuts, and compact workflow controls.
-
-<br>
-
-<a href="https://github.com/XTUFA7/LiteBar">
-  <img src="https://img.shields.io/badge/OPEN_LITEBAR-2A0A45?style=for-the-badge&logo=github&logoColor=white" alt="Open LiteBar">
-</a>
-
-</td>
+<td width="50%"><b>✦ <a href="https://github.com/xtufa7/NOVA-New-Tab">NØVA</a></b><br><sub>A custom browser workspace: clock, music, terminal &amp; widgets.</sub></td>
+<td width="50%"><b>🐈 <a href="https://github.com/xtufa7/KittyGram">KittyGram</a></b><br><sub>Android Instagram patches for privacy &amp; everyday improvements.</sub></td>
 </tr>
-
 <tr>
-<td width="50%" valign="top">
-
-### ⌨️ LayFix
-
-Fix mixed Arabic and English keyboard-layout mistakes instantly from selected text.
-
-<br>
-
-<a href="https://github.com/XTUFA7/LayFix">
-  <img src="https://img.shields.io/badge/OPEN_LAYFIX-6A00FF?style=for-the-badge&logo=github&logoColor=white" alt="Open LayFix">
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 💸 ExpenseFlow
-
-Modern and customizable expense-tracking application built with Flutter.
-
-<br>
-
-<a href="https://github.com/XTUFA7/ExpenseFlow">
-  <img src="https://img.shields.io/badge/OPEN_EXPENSEFLOW-2A0A45?style=for-the-badge&logo=github&logoColor=white" alt="Open ExpenseFlow">
-</a>
-
-</td>
+<td width="50%"><b>⌨ <a href="https://github.com/xtufa7/LayFix">LayFix</a></b><br><sub>Fix Arabic ↔ English keyboard-layout mistakes instantly.</sub></td>
+<td width="50%"><b>⚡ <a href="https://github.com/xtufa7/LiteBar">LiteBar</a></b><br><sub>Windows tray controls for cleanup, power &amp; shortcuts.</sub></td>
 </tr>
-
 <tr>
-<td width="50%" valign="top">
-
-### 🎥 LiteReplay
-
-Lightweight local instant-replay recorder for Windows with a rolling video buffer.
-
-<br>
-
-<a href="https://github.com/XTUFA7/LiteReplay">
-  <img src="https://img.shields.io/badge/OPEN_LITEREPLAY-6A00FF?style=for-the-badge&logo=github&logoColor=white" alt="Open LiteReplay">
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ Secdeck
-
-Linux terminal security guide with offensive and defensive learning paths, simulations, references, and safe tooling workflows.
-
-<br>
-
-<a href="https://github.com/XTUFA7/Secdeck">
-  <img src="https://img.shields.io/badge/OPEN_SECDECK-2A0A45?style=for-the-badge&logo=github&logoColor=white" alt="Open Secdeck">
-</a>
-
-</td>
+<td width="50%"><b>◉ <a href="https://github.com/xtufa7/LiteReplay">LiteReplay</a></b><br><sub>Save the last 30–120 seconds of your desktop to a local MP4.</sub></td>
+<td width="50%"><b>◈ <a href="https://github.com/xtufa7/Secdeck">SecDeck</a></b><br><sub>Linux security learning, offline simulations &amp; terminal tools.</sub></td>
+</tr>
+<tr>
+<td width="50%"><b>💸 <a href="https://github.com/xtufa7/ExpenseFlow">ExpenseFlow</a></b><br><sub>Personal expenses, budgets &amp; savings in a Flutter app.</sub></td>
+<td width="50%"><b>⚙ <a href="https://github.com/xtufa7/Administration-Bot">Administration Bot</a></b><br><sub>Discord staff management, hiring &amp; interviews.</sub></td>
 </tr>
 </table>
 
----
+<details>
+<summary>More from the lab</summary>
 
-# `// stack`
+- [Onion Domain Generator](https://github.com/xtufa7/onion-domain-generator) — a Tor hidden-service setup guide.
+- [Web portfolio](https://github.com/xtufa7/xtufa7.github.io) — my personal website repository.
+- [Still artwork](./assets/core-still.png) — a motion-free version of the header.
 
-<div align="center">
+</details>
 
-<img src="https://skillicons.dev/icons?i=cs,python,js,bash,powershell,git,docker,androidstudio" alt="Languages and tooling">
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=windows,linux,arch,nginx,sqlite,vscode,visualstudio,github" alt="Systems and tools">
-
-</div>
-
----
-
-# `// security_and_reversing`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ Defensive
-
-- Security monitoring
-- Threat detection workflows
-- Hardening & defensive defaults
-- Logging & visibility
-- Automation
-
-</td>
-<td width="50%" valign="top">
-
-### 🔬 Reversing
-
-- Android application analysis
-- Runtime behavior tracing
-- Hook / injection debugging
-- Static & dynamic analysis
-- Regression investigation
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## `// github_activity`
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XTUFA7&theme=github_dark" width="96%" alt="GitHub profile summary">
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=XTUFA7&theme=github_dark" width="46%" alt="GitHub stats">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=XTUFA7&theme=github_dark" width="46%" alt="Repositories per language">
-
-<br><br>
-
-<code>inspect → understand → reproduce → trace → patch → test → harden</code>
-
-</div>
-
----
-
-<div align="center">
-
-## `//Main`
-
-<a href="https://github.com/justchokingaround/wallpapers/blob/main/lain-monitors.png">
-  <img src="https://raw.githubusercontent.com/justchokingaround/wallpapers/main/lain-monitors.png" width="100%" alt="Lain Iwakura — The Wired">
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=XTUFA7&style=for-the-badge&color=6A00FF&label=PROFILE+VIEWS" alt="Profile views">
-
-<br><br>
-
-<sub>DEFEND • REVERSE • BUILD • HARDEN</sub>
-
-</div>
+<div align="center"><sub>DEFEND · REVERSE · BUILD · HARDEN</sub></div>
