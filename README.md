@@ -1,28 +1,38 @@
-## 📊 GitHub Stats
+```text
+  +------------------------------------------------+
+  | 0xTuFa7                              ~/profile |
+  |                                                |
+  |      ___       _____      _____    _____       |
+  |     / _ \__  _|_   _|   _|  ___|_ |___  |      |
+  |    | | | \ \/ / | || | | | |_ / _` | / /       |
+  |    | |_| |>  <  | || |_| |  _| (_| |/ /        |
+  |     \___//_/\_\ |_| \__,_|_|  \__,_/_/         |
+  |                                                |
+  | DEFEND / REVERSE / CREATE                      |
+  +------------------------------------------------+
+
+  xtufa7@127.0.0.1:~/profile
+  $ cat profile.py
+```
+
+```python
+class TuFa7:
+    name = "Nour Al-Shammari"
+    study = "University of Hail / year 4"
+    focus = "Defensive security & reversing"
+    building = "PATTERON (experimental)"
+    creative = "Video editing / After Effects"
+```
 
 <div align="center">
-  <img src="./assets/stats.svg" width="400" alt="0xTuFa7's GitHub statistics">
-  <img src="./assets/streak.svg" width="400" alt="GitHub contribution streak">
-  <br><br>
-  <a href="https://github.com/xtufa7?tab=repositories"><img src="./assets/projects.svg" width="510" alt="NOVA, KittyGram, LiteReplay, SecDeck and ExpenseFlow"></a>
-  <br><br>
-  <img src="./assets/languages.svg" width="510" alt="Languages used across my public repositories">
-</div>
-
-<p align="center">
-  <a href="https://github.com/xtufa7/NOVA-New-Tab">NØVA</a> · <a href="https://github.com/xtufa7/KittyGram">KittyGram</a> · <a href="https://github.com/xtufa7/LayFix">LayFix</a> · <a href="https://github.com/xtufa7/LiteBar">LiteBar</a><br>
-  <a href="https://github.com/xtufa7/LiteReplay">LiteReplay</a> · <a href="https://github.com/xtufa7/Secdeck">SecDeck</a> · <a href="https://github.com/xtufa7/ExpenseFlow">ExpenseFlow</a> · <a href="https://github.com/xtufa7/Administration-Bot">Administration Bot</a>
-</p>
-
-<div align="center">
-  <img src="./assets/contributions-3d.svg" width="100%" alt="My real GitHub contributions as a 3D calendar">
+  <p><a href="https://tenor.com/view/shizuku-hunter-x-hunter-gif-11152829"><img src="./assets/shizuku.gif" width="380" alt="Shizuku Murasaki from Hunter × Hunter, animated"></a></p>
+  <p><a href="https://xtufa7.github.io/"><kbd>Website ↗</kbd></a> &nbsp; <a href="https://guns.lol/xtufa7"><kbd>guns.lol ↗</kbd></a></p>
 </div>
 
 ---
 
 <div align="center">
+  <img src="./assets/contributions-3d.svg" width="100%" alt="My GitHub contribution history">
+  <br><br>
   <img src="./assets/snake.svg" width="100%" alt="An animated snake eating my GitHub contribution graph">
-  <br>
-  <sub>Defensive Security · Reverse Engineering · Android Analysis</sub><br>
-  <sub><a href="https://x.com/0xtufa7">X</a> · <a href="https://instagram.com/_bb5bb">Instagram</a> · <a href="https://github.com/xtufa7?tab=repositories">All projects</a></sub>
 </div>
