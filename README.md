@@ -1,110 +1,59 @@
-<!-- 0xTuFa7 • designed for GitHub's Markdown renderer -->
+<!-- 0xTuFa7 — minimalist GitHub profile -->
 
 <div align="center">
-  <img src="./assets/identity-panel.svg" alt="0xTuFa7 — Senior Reverse Engineer and Software Engineer" width="100%" />
+
+<h1>0xTuFa7</h1>
+
+<strong>SENIOR REVERSE ENGINEER</strong> &nbsp; / &nbsp; <strong>SOFTWARE ENGINEER</strong>
+
+<br><br>
+
+<sub>I work where the source code ends.</sub>
+
+<br><br>
+
+<a href="https://xtufa7.github.io/">Website ↗</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://guns.lol/xtufa7">guns.lol ↗</a>
+
+<br><br>
+
+<a href="https://tenor.com/view/shizuku-hunter-x-hunter-gif-11152829">
+  <img src="./assets/shizuku.gif" width="380" alt="Shizuku Murasaki from Hunter × Hunter, animated">
+</a>
+
 </div>
 
 <br>
 
-<div align="center">
-  <a href="https://xtufa7.github.io/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-181627?style=for-the-badge&logo=firefoxbrowser&logoColor=C9B6FF&labelColor=181627&color=514780" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/xtufa7">
-    <img src="https://img.shields.io/badge/GITHUB-181627?style=for-the-badge&logo=github&logoColor=F4F2FF&labelColor=181627&color=514780" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://guns.lol/xtufa7">
-    <img src="https://img.shields.io/badge/GUNS.LOL-181627?style=for-the-badge&logoColor=F0C572&labelColor=181627&color=514780" alt="guns.lol" />
-  </a>
-</div>
+---
 
-<br>
+### 01 &nbsp; / &nbsp; ABOUT
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
-### `>_` ABOUT THE ENGINEER
-
-**Nour Al-Shammari** &nbsp;·&nbsp; `@xtufa7`
-
-I work at the intersection of **reverse engineering** and **software engineering** — breaking complex software down to understand its behavior, then turning that understanding into things worth building.
-
-```text
-┌─ CURRENT CONTEXT ───────────────────┐
-│  Reverse engineering   • primary   │
-│  Software engineering  • primary   │
-│  PATTERON              • building  │
-│  After Effects         • creative  │
-└─────────────────────────────────────┘
-```
+**Nour Al-Shammari** — a reverse engineer and software engineer focused on understanding how systems behave beneath the surface, and building software with that knowledge.
 
 <sub>University of Hail · 4th year</sub>
 
-</td>
-<td width="40%" valign="middle" align="center">
+<br>
 
-<a href="https://tenor.com/view/shizuku-hunter-x-hunter-gif-11152829">
-  <img src="./assets/shizuku.gif" width="310" alt="Shizuku Murasaki from Hunter × Hunter, animated" />
-</a>
+### 02 &nbsp; / &nbsp; EXPERTISE
 
-<sub>SHIZUKU.EXE — STILL RUNNING</sub>
+**Reverse Engineering**  
+`Binary Analysis` &nbsp; `Static / Dynamic Analysis` &nbsp; `Debugging` &nbsp; `Software Internals`
 
-</td>
-</tr>
-</table>
+**Software Engineering**  
+`Software Design` &nbsp; `Development` &nbsp; `Tooling` &nbsp; `Automation`
 
 <br>
 
-### `01` / ENGINEERING DOMAINS
+### 03 &nbsp; / &nbsp; CURRENTLY
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**`0x01` &nbsp; REVERSE ENGINEERING**
-
-> Read the behavior. Find the logic. Understand the internals.
-
-`Binary Analysis` · `Static / Dynamic Analysis` · `Debugging` · `Software Internals` · `Defensive Research`
-
-</td>
-<td width="50%" valign="top">
-
-**`0x02` &nbsp; SOFTWARE ENGINEERING**
-
-> Build with intention. Make systems understandable, usable, and reliable.
-
-`Software Design` · `Systems Thinking` · `Developer Tooling` · `Automation` · `Problem Solving`
-
-</td>
-</tr>
-</table>
-
-### `02` / ON THE WORKBENCH
-
-```text
-   DISCOVER                    UNDERSTAND                    CREATE
-   ─────────  ──────────────►  ───────────  ──────────────►  ─────────
-   inspect                     deconstruct                   engineer
-   trace                       map behavior                  iterate
-   question                    verify assumptions            ship
-```
-
-**PATTERON** &nbsp; `EXPERIMENTAL`  
-A project in progress. Built through curiosity, iteration, and plenty of time under the hood.
+**PATTERON** — experimental project in development.  
+**Creative work** — video editing & After Effects.
 
 <br>
 
-<div align="center">
-  <sub>─────────────── &nbsp; CONTRIBUTION LOG / KEEP SCROLLING &nbsp; ───────────────</sub>
-</div>
+---
 
-<br>
-
-<!-- Original contribution and snake artwork left unchanged. -->
+<!-- Original 3D contributions and snake retained unchanged. -->
 <div align="center">
   <img src="./assets/contributions-3d.svg" width="100%" alt="My GitHub contribution history">
   <br><br>
