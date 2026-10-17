@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="422" viewBox="0 0 1280 422" role="img" aria-labelledby="title desc">
+  <title id="title">0xTuFa7 — Senior Reverse Engineer / Software Engineer</title>
+  <desc id="desc">A dark violet engineering identity card with an architectural terminal panel and precise technical typography.</desc>
+  <defs>
+    <linearGradient id="canvas" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10101F"/>
+      <stop offset=".56" stop-color="#101323"/>
+      <stop offset="1" stop-color="#15102C"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#B7A5FF"/>
+      <stop offset="1" stop-color="#7CA5FF"/>
+    </linearGradient>
+    <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#B49BFF" stop-opacity=".95"/>
+      <stop offset="1" stop-color="#B49BFF" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="mesh" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0 H0 V36" stroke="#B9B1FF" stroke-opacity=".068" fill="none" stroke-width="1"/>
+    </pattern>
+    <clipPath id="clip"><rect x="1" y="1" width="1278" height="420" rx="22"/></clipPath>
+  </defs>
+
+  <rect x="1" y="1" width="1278" height="420" rx="22" fill="url(#canvas)" stroke="#555276" stroke-opacity=".65" stroke-width="2"/>
+  <g clip-path="url(#clip)">
+    <rect width="1280" height="422" fill="url(#mesh)"/>
+    <path d="M0 2H1280" stroke="#BBAAFF" stroke-opacity=".19" stroke-width="4"/>
+    <path d="M0 420H1280" stroke="#BBAAFF" stroke-opacity=".18" stroke-width="3"/>
+    <path d="M675 0L1020 422" stroke="#8F7FC2" stroke-opacity=".11" stroke-width="1"/>
+    <path d="M709 0L1054 422" stroke="#8F7FC2" stroke-opacity=".11" stroke-width="1"/>
+    <path d="M742 0L1087 422" stroke="#8F7FC2" stroke-opacity=".11" stroke-width="1"/>
+    <circle cx="1226" cy="385" r="178" fill="none" stroke="#9A82FE" stroke-opacity=".13" stroke-width="1"/>
+    <circle cx="1226" cy="385" r="130" fill="none" stroke="#9A82FE" stroke-opacity=".09" stroke-width="1"/>
+    <circle cx="1226" cy="385" r="80" fill="none" stroke="#9A82FE" stroke-opacity=".09" stroke-width="1"/>
+    <path d="M53 59H93" stroke="#CEB8FF" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="102" cy="59" r="3" fill="#F0C572"/>
+    <text x="116" y="64" fill="#A6A5BE" font-size="14" font-family="Consolas, 'Liberation Mono', monospace" letter-spacing="2.8">IDENTITY / 0X7A</text>
+    <text x="54" y="186" font-family="'Segoe UI', Arial, sans-serif" font-size="100" font-weight="800" letter-spacing="-4" fill="#8F84C3">0x</text>
+    <text x="178" y="186" font-family="'Segoe UI', Arial, sans-serif" font-size="100" font-weight="800" letter-spacing="-4" fill="#F4F2FF">TuFa7</text>
+    <rect x="55" y="213" width="8" height="36" rx="3" fill="#F0C572"/>
+    <text x="81" y="234" fill="#DDD9F8" font-size="24" font-weight="700" font-family="'Segoe UI', Arial, sans-serif" letter-spacing=".7">SENIOR REVERSE ENGINEER</text>
+    <text x="81" y="266" fill="#A8A6C8" font-size="24" font-weight="600" font-family="'Segoe UI', Arial, sans-serif" letter-spacing=".7">SOFTWARE ENGINEER</text>
+    <path d="M55 304H683" stroke="url(#beam)" stroke-width="1.5"/>
+    <text x="55" y="345" fill="#A9A9C3" font-size="18" font-family="Consolas, 'Liberation Mono', monospace">UNDERSTAND THE BINARY.</text>
+    <text x="55" y="375" fill="#E2DDF9" font-size="18" font-family="Consolas, 'Liberation Mono', monospace">ENGINEER WHAT COMES NEXT.</text>
+    <g transform="translate(765 55)">
+      <rect width="457" height="310" rx="14" fill="#0A0D18" fill-opacity=".94" stroke="#71698F" stroke-opacity=".7"/>
+      <rect x="1" y="1" width="455" height="46" rx="14" fill="#1F2036"/>
+      <rect x="1" y="36" width="455" height="11" fill="#1F2036"/>
+      <path d="M0 47H457" stroke="#49465F" stroke-width="1"/>
+      <circle cx="23" cy="24" r="5" fill="#F0C572"/>
+      <circle cx="43" cy="24" r="5" fill="#887DB8"/>
+      <circle cx="63" cy="24" r="5" fill="#887DB8"/>
+      <text x="226" y="29" font-family="Consolas, 'Liberation Mono', monospace" font-size="14" letter-spacing="1.5" text-anchor="middle" fill="#A9AAC5">RE / ENGINEERING.SESSION</text>
+      <text x="25" y="90" font-family="Consolas, 'Liberation Mono', monospace" font-size="16" fill="#B7A5FF">$</text>
+      <text x="49" y="90" font-family="Consolas, 'Liberation Mono', monospace" font-size="16" fill="#F3F0FF">inspect --target software</text>
+      <text x="25" y="128" font-family="Consolas, 'Liberation Mono', monospace" font-size="16" fill="#7F88A7">01</text>
+      <text x="66" y="128" font-family="Consolas, 'Liberation Mono', monospace" font-size="16" fill="#CBD6FA">trace </text>
+      <text x="137" y="128" font-family="Consolas, 'Liberation Mono', monospace" font-size="16" fill="#F0C572">execution</text>
+      <text x="25" y="162" font-family="Consolas, 'Liberation Mono', monospace" font-size="16" fill="#7F88A7">02</text>
+      <text x="66" y="162" font-family="Consolas, 'Liberation Mono', monospace" font-size="16" fill="#CBD6FA">recover </text>
+      <text x="157" y="162" font-family="Consolas, 'Liberation Mono', monospace" font-size="16" fill="#F0C572">intent</text>
+      <text x="25" y="196" font-family="Consolas, 'Liberation Mono', monospace" font-size="16" fill="#7F88A7">03</text>
+      <text x="66" y="196" font-family="Consolas, 'Liberation Mono', monospace" font-size="16" fill="#CBD6FA">engineer </text>
+      <text x="169" y="196" font-family="Consolas, 'Liberation Mono', monospace" font-size="16" fill="#F0C572">solutions</text>
+      <path d="M25 223H430" stroke="#4C496B" stroke-width="1" stroke-dasharray="3 7"/>
+      <rect x="25" y="242" width="406" height="44" rx="7" fill="#1D1B32" stroke="#64577D" stroke-opacity=".7"/>
+      <circle cx="46" cy="264" r="4" fill="#B9A5FF"/>
+      <text x="60" y="269" font-family="Consolas, 'Liberation Mono', monospace" font-size="14" fill="#D5C9FF">STATUS</text>
+      <text x="402" y="269" text-anchor="end" font-family="Consolas, 'Liberation Mono', monospace" font-size="14" fill="#F0C572">ALWAYS BUILDING</text>
+    </g>
+    <text x="1188" y="394" text-anchor="end" fill="#8E84AE" font-family="Consolas, 'Liberation Mono', monospace" font-size="11" letter-spacing="2">0XTUFA7 / PROFILE</text>
+  </g>
+</svg>
